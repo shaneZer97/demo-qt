@@ -77,4 +77,4 @@ widget.show()
 try:
     sys.exit(app.exec_())
 except:
-    print("Demo is closed")
+    print("Demo is closed.")
